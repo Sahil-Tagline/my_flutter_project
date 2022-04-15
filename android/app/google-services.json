@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "377582336491",
+    "firebase_url": "https://eat-it-a2547-default-rtdb.firebaseio.com",
+    "project_id": "eat-it-a2547",
+    "storage_bucket": "eat-it-a2547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377582336491:android:1b282bdafeddc01938c1ae",
+        "android_client_info": {
+          "package_name": "com.example.eat_it_ppsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377582336491-0r0sl9p9f414afvohd9fdt28qq6r4dp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eat_it_ppsu",
+            "certificate_hash": "ca8858351bbb0d4506bf05d736b50ad66a7c1210"
+          }
+        },
+        {
+          "client_id": "377582336491-1o948e7l1go5m1ilari4ueioe9o6qoih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eat_it_ppsu",
+            "certificate_hash": "67e023f709dce0cca9540fc60121827694334d0a"
+          }
+        },
+        {
+          "client_id": "377582336491-fod7tmievasnu6urrftlcbltdcc4vn8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eat_it_ppsu",
+            "certificate_hash": "2b05a20a557c3a1f2311c175a2c58b8d33be91be"
+          }
+        },
+        {
+          "client_id": "377582336491-f5eff470q0llk8krk01g10slomo6s2tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSRBCPR2KHGD5AeFXUnLQNC5CoACG_BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377582336491-f5eff470q0llk8krk01g10slomo6s2tu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377582336491-l7hsgaf3au5m5et8516jn6egjnm1t9b3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eatItPpsu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

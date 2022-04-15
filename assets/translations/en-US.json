@@ -1,0 +1,171 @@
+{
+
+  "//common" : "",
+  "Back" : "Back",
+  "SIGN_UP" : "SIGN UP",
+  "SIGN_IN" : "SIGN IN",
+  "Name" : "Name",
+  "Phone" : "Phone",
+  "Please_wait..." : "Please wait...",
+  "Length_of_Phone_No_should_be_10_digit" : "Length of Phone No. should be 10 digit",
+  "Please_Fill_all_Fields" : "Please Fill all Fields",
+  "Please_check_your_connection" : "Please check your connection",
+  "Select_Option" : "Select Option",
+  "Camera" : "Camera",
+  "Gallery" : "Gallery",
+  "Image_Cropper" : "Image Cropper",
+  "We_send_You_a_password_in_sms" : "We send you a password in SMS",
+  "User_Not_Exist_With_This_Number!_Please_Sign_Up_First" : "User Not Exist With This Number!\n Please Sign Up First",
+  "Some_thing_went_wrong_Please_try_again" : "Some thing went wrong! Please try again",
+  "DONE" : "DONE",
+  "Password" : "Password",
+
+
+  "//main.dart" : "",
+  "mainpage_description" : "No matter where you are:\nWhether you are at home, or in the office, or on the beach - we will find you and we will food you.",
+
+
+  "//sign_up.dart" : "",
+  "I_agree_with" : "I agree with  ",
+  "Terms_&_Conditions" : "Terms & Conditions",
+  "User_Already_Exist!_Please_Login" : "User Already Exist! Please Login",
+  "I_have" : "I have  ",
+  "an_account" : "an account",
+
+
+  "//sign_in.dart" : "",
+  "Enter_your_data" : "Enter your data",
+  "Forgot_Password?" : "Forgot Password?",
+  "Please_Enter_Valid_Password" : "Please Enter Valid Password",
+  "Enter_valid_Phone_number_and_Password" : "Enter valid Phone number and Password",
+  "OR" : "OR",
+  "Sign_in_with_google" : "SIGN IN WITH GOOGLE",
+  "Sign_in_with" : "Sign in with",
+  "Google" : "Google",
+  "Sign_in_with_Facebook" : "Sign in with Facebook",
+  "Don't_have_an_account?" : "Don't have an account? ",
+  "Sign_Up" : "Sign Up",
+  "Please_check_your_connection_and_try_again" : "Please check your connection and try again",
+
+
+  "//forgot_pass.dart" : "",
+  "FORGOT_PASSWORD" : "FORGOT PASSWORD",
+  "Please_Enter_Valid_Phone_No" : "Please Enter Valid Phone No.",
+
+
+  "//otp.dart" : "",
+  "ENTER_CODE" : "ENTER CODE",
+  "from_sms" : "from sms",
+  "Do_not_receive_sms" : "Do not receive SMS.  ",
+  "Resend_Message_done" : "Resend Message done",
+  "Resent" : "Resent",
+  "Some_Things_Went_Wrong_Please_Check_Mobile_Number_OR_Try_After_Some_Time" : "Some Things Went Wrong?\nPlease Check Mobile Number OR\nTry After Some Time",
+  "Please_Enter_Valid_OTP" : "Please Enter Valid OTP",
+
+  "//terms_condition.dart" : "",
+  "This_is_Terms_and_Conditions" : "This is Terms and Conditions",
+
+
+  "//drawer.dar" : "",
+  "Edit_profile" : "Edit profile",
+  "Offers" : "Offers",
+  "My_Cart" : "My Cart",
+  "Last_Order" : "Last Order",
+  "Favourite" : "Favourite",
+  "Settings" : "Settings",
+  "Support" : "Support",
+  "Log_Out" : "Log Out",
+  "Menu" : "Menu",
+
+
+  "//account_screen.dart" : "",
+  "Account" : "Account",
+  "Edit_Photo" : "Edit Photo",
+  "SAVE" : "SAVE",
+  "Name_Successfully_Updated" : "Name Successfully Updated",
+  "Name_should_not_empty" : "Name should not empty",
+  "Email" : "Email",
+  "UPDATE_PASSWORD" : "UPDATE PASSWORD",
+  "Current_Password" : "Current Password",
+  "New_Password" : "New Password",
+  "Password_must_have_6_digit" : "* Password must have 6 digit",
+  "UPDATE" : "UPDATE",
+  "Current_Password_and_New_Password_should_not_same" : "Current Password and New Password should not same",
+  "Password_should_have_6_digit" : "Password should have 6 digit",
+  "Password_Successfully_Updated" : "Password Successfully Updated",
+  "Please_Enter_Correct_Password" : "Please Enter Correct Password",
+  "Photo_Successfully_Updated" : "Photo Successfully Updated",
+
+
+  "//address_screen.dart" : "",
+  "Delivery_Address" : "Delivery Address",
+  "Please_select_address" : "Please select address",
+  "CONTINUE" : "CONTINUE",
+
+
+  "//cart_screen.dart" : "",
+  "Cart" : "Cart",
+  "Cancel" : "Cancel",
+  "Edit" : "Edit",
+  "Cart_is_Empty" : "Cart is Empty",
+  "BUY" : "BUY",
+  "REMOVE" : "REMOVE ",
+  "ITEMS" : " ITEMS",
+
+
+  "//checkout_screen.dart" : "",
+  "Select_your_address" : "Select your address",
+  "Ordering" : "Ordering",
+  "Delivery_address" : "Delivery address",
+  "Address_1" : "Address 1",
+  "Payment_Method" : "Payment Method",
+  "Cash_on_delivery" : "Cash on delivery",
+  "Please_select_address_first" : "Please select address first",
+  "CHECKOUT" : "CHECKOUT",
+  "You_want_to_cancel_order" : "You want to cancel order",
+  "CANCEL" : "CANCEL",
+  "OK" : "OK",
+
+
+  "//complete_order_screen.dart" : "",
+  "Order_Completed" : "Order Completed",
+  "Total" : "Total ",
+  "How_was_your_order" : "How was your order",
+  "experience_from_Eat_it" : "experience from Eat it?",
+  "MAYBE_LATER" : "MAYBE LATER",
+  "Please_give_the_rating" : "Please give the rating",
+  "SUBMIT" : "SUBMIT",
+  "Your_order_is_Completed_Enjoy_your_meal_Thank_You" : "Your order is Completed.\nEnjoy your meal, Thank You.",
+
+
+  "//favorite_screen.dart" : "",
+  "Empty" : "Empty",
+  "DELETE" : "DELETE ",
+
+
+  "//item_detail_screen" : "",
+  "ADD_TO_FAVOURITE" : "ADD TO FAVOURITE",
+  "FAVOURITE" : "FAVOURITE",
+  "ADD_TO_CART" : " ADD TO CART",
+  "No_Comments" : "No Comments",
+  "Your_messages" : "Your messages... \n\n\n\n\n",
+  "SEND" : "SEND",
+
+
+  "//menu_screen" : "",
+  "Menu" : "Menu",
+  "Last_Orders" : "Last Orders",
+  "No_order_in_last_week" : "No order in last week!",
+  "All_Items_added_to_cart" : "All Items added to cart",
+  "REPEAT_ORDER" : "REPEAT ORDER",
+
+
+  "//setting_screen.dart" : "",
+  "Push_notification" : "Push-notification",
+  "My_Addresses" : "My Addresses",
+  "Address" : "Address",
+  "ADD_ADDRESS" : "ADD ADDRESS",
+  "ADD" : "ADD",
+  "CANCEL" : "CANCEL"
+
+}
